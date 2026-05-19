@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "690659016419",
+    "project_id": "dstcsrichairvitccapp",
+    "storage_bucket": "dstcsrichairvitccapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690659016419:android:92884f949ef89308580fd6",
+        "android_client_info": {
+          "package_name": "com.example.dstcsri_chair_vitcc_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh0PZblgGwTXtqHaShkE-QL7VQkI42jUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
