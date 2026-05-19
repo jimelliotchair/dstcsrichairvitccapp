@@ -145,7 +145,7 @@ await ActivityLogger.logSignOut();
         },
 
         child: const Text(
-          "Create New Patient",
+          "Create New Patient -",
         ),
       ),
 
